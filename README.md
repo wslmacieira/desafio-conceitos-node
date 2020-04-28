@@ -1,4 +1,4 @@
-# Desfio final Fastfeet
+# Desafio 02: Conceitos do Node.js
 
 ### :fire: Sobre o Desafio 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
